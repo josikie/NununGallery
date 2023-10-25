@@ -77,7 +77,7 @@ fun ArtSpaceUI(modifier: Modifier = Modifier) {
         8 -> R.drawable.nunun_8
         9 -> R.drawable.nunun_9
         10 -> R.drawable.nunun_10
-        else -> R.drawable.nunun_3
+        else -> R.drawable.nunun_7
     }
 
     val descResource = when (artPicture) {
