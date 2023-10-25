@@ -5,3 +5,5 @@ This app is very simple. It contains one portrait, three texts, and two beautifu
 Here is the screenshot:
 
 ![photo_2023-10-25_08-57-02](https://github.com/josikie/NununGallery/assets/54074780/08c1cecc-c50b-4636-9118-8f58f5bc11c7)
+
+If you are too lazy to compile it yourself, download the .apk here (it is safe): https://josikie.com/download/galeri-nunun/
