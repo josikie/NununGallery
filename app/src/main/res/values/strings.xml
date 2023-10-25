@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nunun</string>
+    <string name="unknown_pict">Unknown</string>
+    <string name="nunun_1">Nunun\'s First Picture</string>
+    <string name="nunun_2">Nunun\'s Second Picture</string>
+    <string name="nunun_3">Nunun\'s Third Picture</string>
+    <string name="nunun_4">Nunun\'s Fourth Picture</string>
+    <string name="nunun_5">Nunun\'s Fifth Picture</string>
+    <string name="nunun_6">Nunun\'s Sixth Picture</string>
+    <string name="nunun_7">Nunun\'s Seventh Picture</string>
+    <string name="nunun_8">Nunun\'s Eighth Picture</string>
+    <string name="nunun_9">Nunun\'s Ninth Picture</string>
+    <string name="nunun_10">Nunun\'s Tenth Picture</string>
+    <string name="unknown_artist">Unknown</string>
+    <string name="artist_josi">Josi Kie</string>
+    <string name="unknown_year">Unknown</string>
+    <string name="year_taken_2023">(2023)</string>
+    <string name="previous_text_button">Previous</string>
+    <string name="next_text_button">Next</string>
+</resources>
